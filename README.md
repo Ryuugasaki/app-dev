@@ -5,8 +5,8 @@
 
 # Repository Contents
 
-   # about-me.md
+   # about-me.md – Contains your personal introduction.
    https://github.com/Ryuugasaki/app-dev/blob/main/about-me.md
 
-   # movies.md
-   https://github.com/Ryuugasaki/app-dev/blob/main/favorites/movies.md
+   # favorites/movies.md – Contains your favorite movies or series.
+   https://github.com/Ryuugasaki/app-dev/tree/main/favorites
