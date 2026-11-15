@@ -11,3 +11,8 @@ BSIT301C
 
 # Favorite Programming Language:
 Java
+
+# Why I want to learn programming:
+I like video games so I want to make my own game
+
+
